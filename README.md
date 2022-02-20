@@ -1,6 +1,15 @@
 # newsapp
 
-A new Flutter project.
+News App Developed using flutter
+
+TOOLS USED:
+BLOC -State managemnt ,
+Http- Api communication ,
+Hive- Caching ,
+Get_it- Dependency managemnt
+
+
+<img src="https://github.com/itsmeabhi12/NewsApp-CleanArchitecture/blob/main/Rec-0001.gif" />
 
 ## Getting Started
 
